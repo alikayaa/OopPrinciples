@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OdemeSistemiKotu.HaveleIleOdeme">
+    <Position X="2.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>HaveleIleOdeme.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OdemeSistemiKotu.KapidaOdeme">
+    <Position X="6" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>KapidaOdeme.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OdemeSistemiKotu.KrediKartiIleOdeme">
+    <Position X="1.5" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>KrediKartiIleOdeme.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OdemeSistemiKotu.OdemeSistemi">
+    <Position X="4.25" Y="1" Width="1.5" />
+    <AssociationLine Name="havaleOdeme" Type="OdemeSistemiKotu.HaveleIleOdeme">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.195" Y="-0.265" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="kapidaOdeme" Type="OdemeSistemiKotu.KapidaOdeme" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="5.75" Y="2.438" />
+        <Point X="6.688" Y="2.438" />
+        <Point X="6.688" Y="3.75" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.068" Y="0.237" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQIEAAAAAQAAAAQAAAAAAAAAAAAAAAQAg=</HashCode>
+      <FileName>OdemeSistemi.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="havaleOdeme" />
+      <Field Name="kapidaOdeme" />
+      <Field Name="krediKartiOdeme" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="OdemeSistemiKotu.Test">
+    <Position X="7.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Test.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="os" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OnaylamaSistemiIyi.CashConfirm" BaseTypeListCollapsed="true">
+    <Position X="8" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAgEAAAAEAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>OnaylamaTipleri\CashConfirm.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="OnaylamaSistemiIyi.CreditCardConfirm" BaseTypeListCollapsed="true">
+    <Position X="10.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAgAAAAAEAAAABAAAAAAAQAAAAA=</HashCode>
+      <FileName>OnaylamaTipleri\CreditCardConfirm.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="OnaylamaSistemiIyi.FreeConfirm" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAEAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>OnaylamaTipleri\FreeConfirm.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="OnaylamaSistemiIyi.ICashConfirmReservation">
+    <Position X="0.5" Y="3.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ICashConfirmReservation.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="OnaylamaSistemiIyi.ICreditCardConfirmReservation">
+    <Position X="3.5" Y="3.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>ICreditCardConfirmReservation.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="OnaylamaSistemiIyi.IFreeConfirmReservation">
+    <Position X="2.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAEAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>IFreeConfirmReservation.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

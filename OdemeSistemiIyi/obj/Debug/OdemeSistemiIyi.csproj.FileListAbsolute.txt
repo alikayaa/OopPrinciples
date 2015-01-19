@@ -1,0 +1,12 @@
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 2\KitapYardimciKodlar\OdemeSistemiIyi\bin\Debug\OdemeSistemiIyi.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 2\KitapYardimciKodlar\OdemeSistemiIyi\bin\Debug\OdemeSistemiIyi.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 2\KitapYardimciKodlar\OdemeSistemiIyi\obj\Debug\OdemeSistemiIyi.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 2\KitapYardimciKodlar\OdemeSistemiIyi\obj\Debug\OdemeSistemiIyi.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 3\KitapYardimciKodlar\OdemeSistemiIyi\bin\Debug\OdemeSistemiIyi.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 3\KitapYardimciKodlar\OdemeSistemiIyi\bin\Debug\OdemeSistemiIyi.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 3\KitapYardimciKodlar\OdemeSistemiIyi\obj\Debug\OdemeSistemiIyi.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 3\KitapYardimciKodlar\OdemeSistemiIyi\obj\Debug\OdemeSistemiIyi.pdb
+G:\tez ile alakalı\kodlar\Nesne Temelli Tasarım Prensipleri\OdemeSistemiIyi\bin\Debug\OdemeSistemiIyi.dll
+G:\tez ile alakalı\kodlar\Nesne Temelli Tasarım Prensipleri\OdemeSistemiIyi\bin\Debug\OdemeSistemiIyi.pdb
+G:\tez ile alakalı\kodlar\Nesne Temelli Tasarım Prensipleri\OdemeSistemiIyi\obj\Debug\OdemeSistemiIyi.dll
+G:\tez ile alakalı\kodlar\Nesne Temelli Tasarım Prensipleri\OdemeSistemiIyi\obj\Debug\OdemeSistemiIyi.pdb

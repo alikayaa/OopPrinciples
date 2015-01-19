@@ -1,0 +1,14 @@
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 2\KitapYardimciKodlar\OnlineRezervasyonIyiDependency\bin\Debug\OnlineRezervasyonIyi.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 2\KitapYardimciKodlar\OnlineRezervasyonIyiDependency\bin\Debug\OnlineRezervasyonIyi.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 2\KitapYardimciKodlar\OnlineRezervasyonIyiDependency\obj\Debug\OnlineRezervasyonIyi.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 2\KitapYardimciKodlar\OnlineRezervasyonIyiDependency\obj\Debug\OnlineRezervasyonIyi.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 3\KitapYardimciKodlar\OnlineRezervasyonIyiDependency\bin\Debug\OnlineRezervasyonIyi.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 3\KitapYardimciKodlar\OnlineRezervasyonIyiDependency\bin\Debug\OnlineRezervasyonIyi.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 3\KitapYardimciKodlar\OnlineRezervasyonIyiDependency\obj\Debug\OnlineRezervasyonIyiDependency.csprojResolveAssemblyReference.cache
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 3\KitapYardimciKodlar\OnlineRezervasyonIyiDependency\obj\Debug\OnlineRezervasyonIyi.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 3\KitapYardimciKodlar\OnlineRezervasyonIyiDependency\obj\Debug\OnlineRezervasyonIyi.pdb
+G:\tez ile alakalı\kodlar\Nesne Temelli Tasarım Prensipleri\OnlineRezervasyonIyiDependency\bin\Debug\OnlineRezervasyonIyi.dll
+G:\tez ile alakalı\kodlar\Nesne Temelli Tasarım Prensipleri\OnlineRezervasyonIyiDependency\bin\Debug\OnlineRezervasyonIyi.pdb
+G:\tez ile alakalı\kodlar\Nesne Temelli Tasarım Prensipleri\OnlineRezervasyonIyiDependency\obj\Debug\OnlineRezervasyonIyiDependency.csprojResolveAssemblyReference.cache
+G:\tez ile alakalı\kodlar\Nesne Temelli Tasarım Prensipleri\OnlineRezervasyonIyiDependency\obj\Debug\OnlineRezervasyonIyi.dll
+G:\tez ile alakalı\kodlar\Nesne Temelli Tasarım Prensipleri\OnlineRezervasyonIyiDependency\obj\Debug\OnlineRezervasyonIyi.pdb

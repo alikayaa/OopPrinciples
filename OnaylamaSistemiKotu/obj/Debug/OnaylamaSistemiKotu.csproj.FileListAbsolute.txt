@@ -1,0 +1,12 @@
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 2\KitapYardimciKodlar\OnaylamaSistemiKotu\bin\Debug\OnaylamaSistemiKotu.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 2\KitapYardimciKodlar\OnaylamaSistemiKotu\bin\Debug\OnaylamaSistemiKotu.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 2\KitapYardimciKodlar\OnaylamaSistemiKotu\obj\Debug\OnaylamaSistemiKotu.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 2\KitapYardimciKodlar\OnaylamaSistemiKotu\obj\Debug\OnaylamaSistemiKotu.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 3\KitapYardimciKodlar\OnaylamaSistemiKotu\bin\Debug\OnaylamaSistemiKotu.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 3\KitapYardimciKodlar\OnaylamaSistemiKotu\bin\Debug\OnaylamaSistemiKotu.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 3\KitapYardimciKodlar\OnaylamaSistemiKotu\obj\Debug\OnaylamaSistemiKotu.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 3\KitapYardimciKodlar\OnaylamaSistemiKotu\obj\Debug\OnaylamaSistemiKotu.pdb
+G:\tez ile alakalı\kodlar\Nesne Temelli Tasarım Prensipleri\OnaylamaSistemiKotu\bin\Debug\OnaylamaSistemiKotu.dll
+G:\tez ile alakalı\kodlar\Nesne Temelli Tasarım Prensipleri\OnaylamaSistemiKotu\bin\Debug\OnaylamaSistemiKotu.pdb
+G:\tez ile alakalı\kodlar\Nesne Temelli Tasarım Prensipleri\OnaylamaSistemiKotu\obj\Debug\OnaylamaSistemiKotu.dll
+G:\tez ile alakalı\kodlar\Nesne Temelli Tasarım Prensipleri\OnaylamaSistemiKotu\obj\Debug\OnaylamaSistemiKotu.pdb

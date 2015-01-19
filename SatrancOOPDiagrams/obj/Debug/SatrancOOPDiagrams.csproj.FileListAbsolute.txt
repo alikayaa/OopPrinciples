@@ -1,0 +1,8 @@
+D:\KitapYardimciKodlar\SatrancOOPDiagrams\bin\Debug\SatrancOOPDiagrams.dll
+D:\KitapYardimciKodlar\SatrancOOPDiagrams\bin\Debug\SatrancOOPDiagrams.pdb
+D:\KitapYardimciKodlar\SatrancOOPDiagrams\obj\Debug\SatrancOOPDiagrams.dll
+D:\KitapYardimciKodlar\SatrancOOPDiagrams\obj\Debug\SatrancOOPDiagrams.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 2\KitapYardimciKodlar\SatrancOOPDiagrams\bin\Debug\SatrancOOPDiagrams.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 2\KitapYardimciKodlar\SatrancOOPDiagrams\bin\Debug\SatrancOOPDiagrams.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 2\KitapYardimciKodlar\SatrancOOPDiagrams\obj\Debug\SatrancOOPDiagrams.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 2\KitapYardimciKodlar\SatrancOOPDiagrams\obj\Debug\SatrancOOPDiagrams.pdb

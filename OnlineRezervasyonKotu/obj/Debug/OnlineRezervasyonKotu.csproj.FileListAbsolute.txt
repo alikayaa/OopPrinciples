@@ -1,0 +1,13 @@
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 2\KitapYardimciKodlar\OnlineRezervasyonKotu\bin\Debug\OnlineRezervasyonKotu.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 2\KitapYardimciKodlar\OnlineRezervasyonKotu\bin\Debug\OnlineRezervasyonKotu.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 2\KitapYardimciKodlar\OnlineRezervasyonKotu\obj\Debug\OnlineRezervasyonKotu.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 2\KitapYardimciKodlar\OnlineRezervasyonKotu\obj\Debug\OnlineRezervasyonKotu.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 3\KitapYardimciKodlar\OnlineRezervasyonKotu\bin\Debug\OnlineRezervasyonKotu.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 3\KitapYardimciKodlar\OnlineRezervasyonKotu\bin\Debug\OnlineRezervasyonKotu.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 3\KitapYardimciKodlar\OnlineRezervasyonKotu\obj\Debug\OnlineRezervasyonKotu.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 3\KitapYardimciKodlar\OnlineRezervasyonKotu\obj\Debug\OnlineRezervasyonKotu.pdb
+G:\tez ile alakalı\kodlar\Nesne Temelli Tasarım Prensipleri\OnlineRezervasyonKotu\bin\Debug\OnlineRezervasyonKotu.dll
+G:\tez ile alakalı\kodlar\Nesne Temelli Tasarım Prensipleri\OnlineRezervasyonKotu\bin\Debug\OnlineRezervasyonKotu.pdb
+G:\tez ile alakalı\kodlar\Nesne Temelli Tasarım Prensipleri\OnlineRezervasyonKotu\obj\Debug\OnlineRezervasyonKotu.csprojResolveAssemblyReference.cache
+G:\tez ile alakalı\kodlar\Nesne Temelli Tasarım Prensipleri\OnlineRezervasyonKotu\obj\Debug\OnlineRezervasyonKotu.dll
+G:\tez ile alakalı\kodlar\Nesne Temelli Tasarım Prensipleri\OnlineRezervasyonKotu\obj\Debug\OnlineRezervasyonKotu.pdb

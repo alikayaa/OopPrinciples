@@ -1,0 +1,15 @@
+D:\Kitap\KitapYardımcıResimVeKod\KitapYardimciKodlar\SifrelemeKotu\bin\Debug\SifrelemeKotu.dll
+D:\Kitap\KitapYardımcıResimVeKod\KitapYardimciKodlar\SifrelemeKotu\bin\Debug\SifrelemeKotu.pdb
+D:\Kitap\KitapYardımcıResimVeKod\KitapYardimciKodlar\SifrelemeKotu\obj\Debug\SifrelemeKotu.csprojResolveAssemblyReference.cache
+D:\Kitap\KitapYardımcıResimVeKod\KitapYardimciKodlar\SifrelemeKotu\obj\Debug\SifrelemeKotu.dll
+D:\Kitap\KitapYardımcıResimVeKod\KitapYardimciKodlar\SifrelemeKotu\obj\Debug\SifrelemeKotu.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 3\KitapYardimciKodlar\SifrelemeKotu\bin\Debug\SifrelemeKotu.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 3\KitapYardimciKodlar\SifrelemeKotu\bin\Debug\SifrelemeKotu.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 3\KitapYardimciKodlar\SifrelemeKotu\obj\Debug\SifrelemeKotu.csprojResolveAssemblyReference.cache
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 3\KitapYardimciKodlar\SifrelemeKotu\obj\Debug\SifrelemeKotu.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 3\KitapYardimciKodlar\SifrelemeKotu\obj\Debug\SifrelemeKotu.pdb
+G:\tez ile alakalı\kodlar\Nesne Temelli Tasarım Prensipleri\SifrelemeKotu\bin\Debug\SifrelemeKotu.dll
+G:\tez ile alakalı\kodlar\Nesne Temelli Tasarım Prensipleri\SifrelemeKotu\bin\Debug\SifrelemeKotu.pdb
+G:\tez ile alakalı\kodlar\Nesne Temelli Tasarım Prensipleri\SifrelemeKotu\obj\Debug\SifrelemeKotu.csprojResolveAssemblyReference.cache
+G:\tez ile alakalı\kodlar\Nesne Temelli Tasarım Prensipleri\SifrelemeKotu\obj\Debug\SifrelemeKotu.dll
+G:\tez ile alakalı\kodlar\Nesne Temelli Tasarım Prensipleri\SifrelemeKotu\obj\Debug\SifrelemeKotu.pdb

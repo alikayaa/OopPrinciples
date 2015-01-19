@@ -1,0 +1,15 @@
+D:\Kitap\KitapYardımcıResimVeKod\KitapYardimciKodlar\SifrelemeIyi\bin\Debug\SifrelemeIyi.dll
+D:\Kitap\KitapYardımcıResimVeKod\KitapYardimciKodlar\SifrelemeIyi\bin\Debug\SifrelemeIyi.pdb
+D:\Kitap\KitapYardımcıResimVeKod\KitapYardimciKodlar\SifrelemeIyi\obj\Debug\SifrelemeIyi.csprojResolveAssemblyReference.cache
+D:\Kitap\KitapYardımcıResimVeKod\KitapYardimciKodlar\SifrelemeIyi\obj\Debug\SifrelemeIyi.dll
+D:\Kitap\KitapYardımcıResimVeKod\KitapYardimciKodlar\SifrelemeIyi\obj\Debug\SifrelemeIyi.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 3\KitapYardimciKodlar\SifrelemeIyi\bin\Debug\SifrelemeIyi.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 3\KitapYardimciKodlar\SifrelemeIyi\bin\Debug\SifrelemeIyi.pdb
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 3\KitapYardimciKodlar\SifrelemeIyi\obj\Debug\SifrelemeIyi.csprojResolveAssemblyReference.cache
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 3\KitapYardimciKodlar\SifrelemeIyi\obj\Debug\SifrelemeIyi.dll
+C:\Users\CASPER PC\Desktop\Kitap\KitapYardımcıResimVeKod\Bölüm 3\KitapYardimciKodlar\SifrelemeIyi\obj\Debug\SifrelemeIyi.pdb
+G:\tez ile alakalı\kodlar\Nesne Temelli Tasarım Prensipleri\SifrelemeIyi\bin\Debug\SifrelemeIyi.dll
+G:\tez ile alakalı\kodlar\Nesne Temelli Tasarım Prensipleri\SifrelemeIyi\bin\Debug\SifrelemeIyi.pdb
+G:\tez ile alakalı\kodlar\Nesne Temelli Tasarım Prensipleri\SifrelemeIyi\obj\Debug\SifrelemeIyi.csprojResolveAssemblyReference.cache
+G:\tez ile alakalı\kodlar\Nesne Temelli Tasarım Prensipleri\SifrelemeIyi\obj\Debug\SifrelemeIyi.dll
+G:\tez ile alakalı\kodlar\Nesne Temelli Tasarım Prensipleri\SifrelemeIyi\obj\Debug\SifrelemeIyi.pdb

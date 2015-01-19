@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OnlineRezervasyonIyi.Otel">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAgAAAAgA=</HashCode>
+      <FileName>Entity\Otel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnlineRezervasyonIyi.RezervasyonCiktiAlici">
+    <Position X="5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RezervasyonCiktiAlici.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="ciktiAlici" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="OnlineRezervasyonIyi.OtelAramaci">
+    <Position X="2.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAgAAAAAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>OtelAramaci.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="oteller" />
+      <Field Name="tedarikciler" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="OnlineRezervasyonIyi.Tedarikci1">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Tedarikciler\Tedarikci1.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="OnlineRezervasyonIyi.Tedarikci2">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Tedarikciler\Tedarikci2.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="OnlineRezervasyonIyi.Rezervasyon">
+    <Position X="10" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAACAAAAAAAAAACAAAAAAAAAAAAAAAAAAAgAAAACA=</HashCode>
+      <FileName>Entity\Rezervasyon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnlineRezervasyonIyi.RezervasyonDAO">
+    <Position X="8" Y="0.75" Width="1.75" />
+    <AssociationLine Name="rezervasyon" Type="OnlineRezervasyonIyi.Rezervasyon">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-0.4" Y="0.737" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAQAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RezervasyonDAO.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="rezervasyon" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="OnlineRezervasyonIyi.ExceleCiktiAl" BaseTypeListCollapsed="true">
+    <Position X="4" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CiktiAlicilar\ExceleCiktiAl.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="OnlineRezervasyonIyi.PDFeCiktiAl" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CiktiAlicilar\PDFeCiktiAl.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="OnlineRezervasyonIyi.WordeCiktiAl" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CiktiAlicilar\WordeCiktiAl.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="OnlineRezervasyonIyi.ICiktiAl">
+    <Position X="5.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interface\ICiktiAl.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="OnlineRezervasyonIyi.ITedarikci">
+    <Position X="1.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Interface\ITedarikci.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

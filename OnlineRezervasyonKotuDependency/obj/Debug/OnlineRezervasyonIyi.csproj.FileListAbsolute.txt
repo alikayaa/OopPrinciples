@@ -1,0 +1,5 @@
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 2\KitapYardimciKodlar\OnlineRezervasyonIyi\bin\Debug\OnlineRezervasyonIyi.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 2\KitapYardimciKodlar\OnlineRezervasyonIyi\bin\Debug\OnlineRezervasyonIyi.pdb
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 2\KitapYardimciKodlar\OnlineRezervasyonIyi\obj\Debug\OnlineRezervasyonIyi.csprojResolveAssemblyReference.cache
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 2\KitapYardimciKodlar\OnlineRezervasyonIyi\obj\Debug\OnlineRezervasyonIyi.dll
+D:\Kitap\KitapYardımcıResimVeKod\Bölüm 2\KitapYardimciKodlar\OnlineRezervasyonIyi\obj\Debug\OnlineRezervasyonIyi.pdb
